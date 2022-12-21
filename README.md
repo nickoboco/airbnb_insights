@@ -1,6 +1,8 @@
 ## Projeto Airbnb - Exploração e análise de dados
 Este projeto tem por objetivo auxiliar o time de negócio da empresa a tomar decisões embasadas em dados.
 
+Os dados foram exportados de um repositório público, tratados com python e apresentados em um dashboard no Power BI.
+
 Projeto publicado na URL: https://app.powerbi.com/view?r=eyJrIjoiNzJmNGFmMWQtYzY2ZC00ZDUzLWEyMWItOWJkMDIwYWI0YTg1IiwidCI6ImFjOGRkZTI1LWM1MDYtNDMyNy04OGIyLWMwOTNmZDM1NmRjZSJ9
 
 ## Questão de negócio
